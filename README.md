@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Engin Yağmur</h1>
-<h3 align="center">Senior Mobile Developer at Borda Technology | Co-Founder</h3>
+<h3 align="center">Senior Mobile Developer at Borda Technology | Co-Founder at Hireprep</h3>
 
 <p align="left">
 Software Engineer graduated from Istanbul Technical University with 5+ years of experience in Flutter and Dart. Currently working as a <b>Senior Mobile Developer at Borda Technology</b>. As a co-founder at HirePrep, I developed scalable ATS solutions and published a public library on pub.dev establishing a Native-Flutter bridge for RFID technologies. Expert in Clean Architecture, BLoC Pattern, and MethodChannel, with a focus on high-traffic and financial data performance.
